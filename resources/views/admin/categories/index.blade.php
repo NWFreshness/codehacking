@@ -1,0 +1,1 @@
+<h1>Test Admin Categories Index Page</h1>
